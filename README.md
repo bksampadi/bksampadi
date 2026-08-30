@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Bharath 👋
 
-<!--
-**bksampadi/bksampadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Systems Engineer
 
-Here are some ideas to get you started:
+I build **AI systems where architecture matters**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work sits at the intersection of **software engineering, machine learning,
+and complex systems**.
+
+## 🚀 Building
+
+### [SignalRank-RAG](https://github.com/bksampadi/SignalRank-RAG)
+
+Production-oriented retrieval and agentic AI.
+
+`Hybrid Retrieval` · `Reranking` · `Agents` · `Evaluation`  
+`FastAPI` · `Docker` · `CI/CD` · `Azure`
+
+**→ [Try the live system](https://signalrank-ui.icybeach-127c89e3.northeurope.azurecontainerapps.io)**
