@@ -11,7 +11,7 @@ and complex systems**.
 
 ### [SignalRank-RAG](https://github.com/bksampadi/SignalRank-RAG)
 
-Production-oriented retrieval and agentic AI.
+Retrieval and agentic AI.
 
 `Hybrid Retrieval` · `Reranking` · `Agents` · `Evaluation`  
 `FastAPI` · `Docker` · `CI/CD` · `Azure`
