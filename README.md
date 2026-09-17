@@ -17,6 +17,10 @@ Retrieval and agentic AI system built for real-world use.
 
 **→ [Try the live system](https://signalrank-ui.icybeach-127c89e3.northeurope.azurecontainerapps.io)**
 
+### [SignalRank MCP](https://github.com/bksampadi/signalrank-mcp)
+
+MCP interface for SignalRank retrieval, tested end-to-end with Claude Code.
+
 ## 🔍 Evaluating
 
 ### [Counter-Evidence-RAG](https://github.com/bksampadi/Counter-Evidence-RAG)
