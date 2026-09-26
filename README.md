@@ -4,11 +4,11 @@
 
 I build and evaluate **AI systems where retrieval, architecture, and evidence flow determine what the model can know and do**.
 
-`AI Engineering` · `Retrieval` · `Agents` · `Evaluation` · `Cloud Deployment`
+`Applied AI` · `Software Systems` · `Retrieval` · `Agents` · `Evaluation` · `Cloud Deployment`
 
 ---
 
-## 🚀 Shipping AI systems
+## 🚀 Building AI systems
 
 ### [SignalRank-RAG](https://github.com/bksampadi/SignalRank-RAG)
 
