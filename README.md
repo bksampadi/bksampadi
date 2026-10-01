@@ -2,9 +2,9 @@
 
 ### AI Systems Engineer
 
-I build and evaluate **AI systems where retrieval, architecture, and evidence flow determine what the model can know and do**.
+I build AI systems and the software around them: retrieval, agents, evaluation, backend services, and interfaces.
 
-`Applied AI` · `Software Systems` · `Retrieval` · `Agents` · `Evaluation` · `Cloud Deployment`
+`Applied AI` · `System Design` · `Backend Engineering` · `Agents` · `Evaluation` · `Cloud Deployment`
 
 ---
 
@@ -12,19 +12,27 @@ I build and evaluate **AI systems where retrieval, architecture, and evidence fl
 
 ### [SignalRank-RAG](https://github.com/bksampadi/SignalRank-RAG)
 
-**Retrieval and agentic AI system with hybrid search, reranking, evaluation, observability, and cloud deployment.**
+**Retrieval and agentic AI system with hybrid search, reranking, evaluation, observability, Kubernetes and cloud deployment.**
 
-`Python` · `FastAPI` · `Qdrant` · `LangGraph` · `Docker` · `Azure`
+`Python` · `FastAPI` · `Qdrant` · `LangGraph` · `Docker` · `Kubernetes`· `Azure`
 
 **→ [Try the live system](https://signalrank-ui.icybeach-127c89e3.northeurope.azurecontainerapps.io)**
 
 <br>
 
-### [SignalRank MCP](https://github.com/bksampadi/signalrank-mcp)
+### [SaaS Agent Lab](https://github.com/bksampadi/saas-agent-lab)
 
-**MCP interface exposing SignalRank retrieval to AI clients, tested end-to-end with Claude Code.**
+**Bounded agent execution over a SaaS backend with policy enforcement, approvals, traceability and postcondition checks.**
 
-`MCP Python SDK v2` · `Claude Code` · `Typed Outputs` · `stdio`
+`Python` · `FastAPI` · `SQLAlchemy` · `PydanticAI` · `SQLite/Postgres`
+
+<br>
+
+### [Relay Engine](https://github.com/bksampadi/relay-engine)
+
+Durable webhook delivery engine exploring retries, delivery state, persistence and failure handling.
+
+`Java` · `Spring Boot` · `PostgreSQL` · `Flyway` · `Testcontainers`
 
 ---
 
@@ -50,4 +58,4 @@ The project includes frozen benchmarks, independent generator replication, exter
 
 ### Currently building
 
-Production-oriented AI systems, agents, and interfaces that connect models to real software.
+AI systems, backend services, and interfaces with an emphasis on reliability, evaluation, and system design.
