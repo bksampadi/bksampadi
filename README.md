@@ -34,6 +34,14 @@ Durable webhook delivery engine exploring retries, delivery state, persistence a
 
 `Java` · `Spring Boot` · `PostgreSQL` · `Flyway` · `Testcontainers`
 
+<br>
+
+### [SignalRank Console](https://github.com/bksampadi/signalrank-console)
+
+React + TypeScript interface for querying SignalRank-RAG, inspecting evidence, and controlling retrieval settings.
+
+`React` · `TypeScript` · `Vite` · `REST APIs`
+
 ---
 
 ## 🔬 Evaluation research
