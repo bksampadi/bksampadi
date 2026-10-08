@@ -2,6 +2,6 @@
 
 ### AI Engineer
 
-I build AI systems and backend software, primarily in Python, with additional backend work in Java/Spring Boot.
+I build AI systems and backend software, primarily in Python, with backend work in Java/Spring Boot and Kotlin, frontend work in TypeScript/React, and formally verified components in SPARK/Ada.
 
-`Python` · `FAST API` · `Gen AI` · `LLMs` · `RAG` · `Agentic AI` · `Evaluation` · `Azure` · `Java` · `Spring Boot` · `PostgresSQL`
+`Python` · `FastAPI` · `Gen AI` · `LLMs` · `RAG` · `Agentic AI` · `Evaluation` · `Azure` · `PostgreSQL` ·  `Java` · `Spring Boot` · `Kotlin` · `TypeScript` · `React` · `Ada`
